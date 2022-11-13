@@ -1,0 +1,19 @@
+[33mcommit fccdb403feb47b4b3a602f7cdbe7a58c07b7c7b0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: piyushh414 <piyushsikarwar414@gmailcom>
+Date:   Sun Nov 13 12:53:08 2022 +0530
+
+    removed images folder and used online linkes instead
+
+[33mcommit a292113bfba23538a2944dd023c6b99ba4cf7e60[m
+Author: piyushh414 <piyushsikarwar414@gmailcom>
+Date:   Sun Nov 13 12:43:22 2022 +0530
+
+     Added Images folder which contains all recipe images
+
+[33mcommit 86472946d66d37bd0ae5653eff8bd5f1f58aa08b[m
+Author: piyushh414 <piyushsikarwar414@gmailcom>
+Date:   Sun Nov 13 12:34:01 2022 +0530
+
+    Created Index page
+    
+    Added a piyush_recipes folder which will contain recipes ....also added html pages for each recipe.
